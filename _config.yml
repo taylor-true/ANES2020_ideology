@@ -1,0 +1,13 @@
+title: Taylor True # your name (or website title) here
+logo: "https://showspace.so/_next/image?url=https%3A%2F%2Fchmqmeyyaiwfybqgcdoy.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fusers%2F18710258-7aa3-460b-9c02-1085e8e15577%2Ftaylor-true-avatar-zR.png&w=2048&q=70" # your photo (or logo) here
+description: > #desc
+ Harvard Graduate School of Education, Education Policy & Analysis, M.Ed (2024)
+  <br><br>
+  <i><a href="https://edredesign.org/people/taylor-true">Research Fellow @ EdRedesign Lab</a></i>
+  <br><br>
+  <a href="https://www.linkedin.com/in/taylor-true-324645b6/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="30"></a> 
+  <a href="https://twitter.com/tay_false"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" height = "30"></a> <br><br> <img src="https://i.imgur.com/NhqR8Sm.gif" height = "150"><br><br> 
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # Google Analytics tracking ID here
